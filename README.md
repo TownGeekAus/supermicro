@@ -1,2 +1,3 @@
 # ansible_supermicro
-Ansible playbooks for Supermicro blade hardware (IPMI, CMM)
+Ansible playbooks for Supermicro blade hardware (IPMI, CMM) 
+All Good
